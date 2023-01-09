@@ -8,7 +8,7 @@
     1. [Sum of first fifty using for & while loop](02/2.2-sum-50.py)
 <br><br>
 1.  1. [Search operation in list](03/3.1-search.py)
-    1. [List, Tuple, Dictionary](03/3.2-list-tuple-dictionary.py)
+    1. [List, Tuple, Dictionary](03/3.2-list-dictionary-tuple.py)
 ---
 
 ###### _if you find any errors in code, you can contact me here..._
