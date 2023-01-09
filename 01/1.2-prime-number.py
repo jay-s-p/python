@@ -18,4 +18,4 @@ while i < a:
 if isPrime:
     print(a, "is prime.")
 else:
-    print(a, " is not prime.")
+    print(a, "is not prime.")

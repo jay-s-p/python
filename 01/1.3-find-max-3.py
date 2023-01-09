@@ -1,7 +1,7 @@
 # 1.3 Write a program to find maximum and minimum from 3 entered numbers.
-a = int(input("Enter first no.  : "))
-b = int(input("Enter second no. : "))
-c = int(input("Enter third no.  : "))
+a = int(input("Enter a : "))
+b = int(input("Enter b : "))
+c = int(input("Enter c : "))
 
 min = a
 if a < b:
@@ -12,7 +12,6 @@ else:
         min = c
     else:
         min = b
-print(min, "is minimum")
 
 max = a
 if a > b:
@@ -22,4 +21,5 @@ elif b < c:
     max = c
 else:
     max = b
+print(min, "is min")
 print(max, "is max")

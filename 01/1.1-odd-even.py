@@ -4,6 +4,6 @@ a = int(input("Enter no. : "))
 if a == 0:
     print("Invalid value")
 elif a % 2 == 0:
-    print("Even")
+    print(a, "is even.")
 else:
-    print("Odd")
+    print(a, "is odd.")
