@@ -21,4 +21,4 @@ if value < 0:
     exit("Invalid value!")
 for i in range(0, value + 1):
     ans = factorial_recursion(i)
-    print(i, ans if (ans != -1) else "Invalid value")
+    print(i, ans)

@@ -1,10 +1,8 @@
 a = int(input("Enter no. : "))
 if a <= 0:
-    print("Invalid input")
-    exit(1)
+    exit("Invalid input")
 if a == 1:
-    print("1 is not Prime")
-    exit(0)
+    exit("1 is not Prime")
 
 isPrime = True
 

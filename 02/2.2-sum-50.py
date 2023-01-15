@@ -4,7 +4,7 @@ print("Sum of first 50 numbers :-")
 sum = 0
 for i in range(1, 51):
     sum += i
-print("using for loop", sum)
+print("using for loop  ", sum)
 
 i = 1
 sum = 0

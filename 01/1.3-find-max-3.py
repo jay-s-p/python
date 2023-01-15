@@ -3,23 +3,12 @@ a = int(input("Enter a : "))
 b = int(input("Enter b : "))
 c = int(input("Enter c : "))
 
-min = a
-if a < b:
-    if a > c:
-        min = c
-else:
-    if b > c:
-        min = c
-    else:
-        min = b
+min = max = a
+for i in [a, b, c]:
+    if i > max:
+        max = i
+    elif i < min:
+        min = i
 
-max = a
-if a > b:
-    if a < c:
-        max = c
-elif b < c:
-    max = c
-else:
-    max = b
 print(min, "is min")
 print(max, "is max")
