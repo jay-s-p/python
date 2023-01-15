@@ -9,6 +9,9 @@
 <br><br>
 1.  1. [Search operation in list](03/3.1-search.py)
     1. [List, Tuple, Dictionary](03/3.2-list-dictionary-tuple.py)
+<br><br>
+1.  1. [Factorial of value](04/4.1-factorial.py)
+    1. [Fibonacci series](04/4.2-fibonacci.py)
 ---
 
 ###### _if you find any errors in code, you can contact me here..._
