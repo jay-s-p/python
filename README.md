@@ -12,6 +12,9 @@
 <br><br>
 1.  1. [Factorial of value](04/4.1-factorial.py)
     1. [Fibonacci series](04/4.2-fibonacci.py)
+<br><br>
+-   [Patterns](./pattern/)
+---
 ---
 
 ###### _if you find any errors in code, you can contact me here..._
