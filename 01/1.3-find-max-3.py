@@ -1,4 +1,6 @@
-# 1.3 Write a program to find maximum and minimum from 3 entered numbers.
+"""
+1.3 Write a program to find maximum and minimum from 3 entered numbers.
+"""
 a = int(input("Enter a : "))
 b = int(input("Enter b : "))
 c = int(input("Enter c : "))

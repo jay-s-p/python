@@ -1,4 +1,6 @@
-# 2.2 Write a program to print sum of first 50 numbers with different loops.
+"""
+2.2 Write a program to print sum of first 50 numbers with different loops.
+"""
 
 print("Sum of first 50 numbers :-")
 sum = 0

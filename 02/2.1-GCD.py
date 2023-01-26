@@ -1,5 +1,6 @@
-# 2.1 Write a program to find GCD of two numbers.
-
+"""
+2.1 Write a program to find GCD of two numbers.
+"""
 # Greatest Common Divisor
 # Highest Common Factor
 

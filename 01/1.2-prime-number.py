@@ -1,7 +1,11 @@
+"""
+1.2 Write a program to check entered values prime or not.
+"""
+
 a = int(input("Enter no. : "))
 if a <= 0:
     exit("Invalid input")
-if a == 1:
+elif a == 1:
     exit("1 is not Prime")
 
 isPrime = True

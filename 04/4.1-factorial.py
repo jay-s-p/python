@@ -3,14 +3,12 @@
 print factorial series.
 """
 
-
 def factorial_iterative(value):
     fact = 1
     while value > 1:
         fact *= value
         value -= 1
     return fact
-
 
 def factorial_recursion(value):
     return 1 if (value == 0 or value == 1) else value * factorial_recursion(value - 1)
