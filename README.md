@@ -13,6 +13,16 @@
 1.  1. [Factorial of value](04/4.1-factorial.py)
     1. [Fibonacci series](04/4.2-fibonacci.py)
 <br><br>
+1.  Remaining
+<br><br>
+1.  [Lambda](./06/6.1-lambda.py)
+<br><br>
+1.  Remaining
+<br><br>
+1.  Remaining
+<br><br>
+1.  [Inheritance](./09/9.1-inheritance.py)
+<br><br>
 -   [Patterns](./pattern/)
 ---
 ---
