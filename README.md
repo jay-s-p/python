@@ -19,7 +19,7 @@
 <br><br>
 1.  Remaining
 <br><br>
-1.  Remaining
+1.  [calendar & datetime](./08/calendar-datetime.py)
 <br><br>
 1.  [Inheritance](./09/9.1-inheritance.py)
 <br><br>
