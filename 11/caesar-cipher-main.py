@@ -9,11 +9,11 @@ def encrypt(plaintext, key):
         if i == " ":
             cifertext += " "
         else:
-            cifertext += chr(((ord(i) + key) - 65) % 26 + 65)if i.isupper(i) else chr(((ord(i) + key) - 65) % 26 + 65)
+            cifertext += chr(((ord(i) + key) - 65) % 26 + 65)if i.isupper() else chr(((ord(i) + key) - 97) % 26 + 97)
     return cifertext
 
 
-plaintext = input("Enter a plaintext : ")
-key = int(input("Enter a plaintext : "))
+plaintext = input("Enter a text : ")
+key = int(input("Enter a key  : "))
 
 print("Encrypted text :", encrypt(plaintext, key))

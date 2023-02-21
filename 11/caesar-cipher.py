@@ -13,7 +13,7 @@ def encrypt(plaintext, key):
     return cifertext
 
 
-plaintext = input("Enter a plaintext : ")
-key = int(input("Enter a plaintext : "))
+plaintext = input("Enter a text : ")
+key = int(input("Enter a key  : "))
 
 print("Encrypted text :", encrypt(plaintext, key))
