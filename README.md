@@ -13,7 +13,8 @@
 1.  1. [Factorial of value](04/4.1-factorial.py)
     1. [Fibonacci series](04/4.2-fibonacci.py)
 <br><br>
-1.  Remaining
+1.  1. [Divide by zero](./05/5.1-divide-by-zero.py)
+    1. [User definded exception](./05/5.2-user-define-exception.py)
 <br><br>
 1.  [Lambda](./06/6.1-lambda.py)
 <br><br>
@@ -22,6 +23,10 @@
 1.  [calendar & datetime](./08/calendar-datetime.py)
 <br><br>
 1.  [Inheritance](./09/9.1-inheritance.py)
+<br><br>
+1.  Remaining
+<br><br>
+1.  [Caesar Cipher 1](./11/caesar-cipher.py) | [Caesar Cipher 2](./11/caesar-cipher-main.py)
 <br><br>
 -   [Patterns](./pattern/)
 ---
