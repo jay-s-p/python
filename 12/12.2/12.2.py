@@ -6,7 +6,7 @@ in separate file.
 
 try:
     numbers = open("./numbers.txt", "w")
-    for i in range(5):
+    for i in range(10):
         numbers.write(input("Enter value : ") + " ")
 except Exception as e:
     print("ERROR :", e)
