@@ -7,7 +7,7 @@ class AgeException(Exception):
         super()
 
 try:
-    age = int(input("Enter your age: "))
+    age = int(input("Enter your age : "))
     if age < 18:
         raise AgeException
 except AgeException:
