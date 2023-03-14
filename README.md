@@ -32,11 +32,11 @@
 1.  1. [File handling](12/12.1/)
     1. [Odd Even](12/12.2/)
 <br><br>
-1.  [Smiley](./13/smiley.py)
+1.  [Smiley](./13/.md)
 <br><br>
-1.  [Traffic signal](./14/traffic-signal.py)
+1.  [Traffic signal](./14/.md)
 <br><br>
-1.  [Background change](./15/change-bg-tkinter.py)
+1.  [Background change](./15/.md)
 ---
 
 ###### _if you find any errors in code, you can contact me here..._
